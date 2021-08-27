@@ -1,0 +1,2 @@
+# cdn
+Repos for jsDelivr
