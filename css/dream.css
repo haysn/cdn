@@ -14,7 +14,7 @@
 	display:inline-block;
 	overflow:hidden;
 	background-repeat: no-repeat;
-	background-image:url(http://ww4.sinaimg.cn/large/0067vO9zgw1ez755cz4pbj30ok08gq4p.jpg);
+	background-image:url(https://cdn.jsdelivr.net/gh/haysn/cdn/img/0067vO9zgw1ez755cz4pbj30ok08gq4p.jpg);
 	background-position: -2px -2px;
 	animation: play 0.8s steps(5) infinite;
 	-webkit-animation: play 0.8s steps(5) infinite;
@@ -66,7 +66,7 @@ html, body{
 .decode .inner {
 	width: 100%;
 	height: 100%;
-	background: url(http://ww3.sinaimg.cn/large/0067vO9zgw1ez755dvqozj30fj08cjrw.jpg) center no-repeat;
+	background: url(https://cdn.jsdelivr.net/gh/haysn/cdn/img/0067vO9zgw1ez755dvqozj30fj08cjrw.jpg) center no-repeat;
 	background-size: 80%;
 }
 
