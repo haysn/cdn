@@ -369,7 +369,7 @@ function htmls() {
                                 props: {
                                     style: 'width:100%;height:100%;padding-left:.4rem',
                                     // todo
-                                    src: 'https://cdn.jsdelivr.net/gh/haysn/cdn/img/t0158f8d519fe2f1627.png'
+                                    src: 'https://cdn.jsdelivr.net/gh/haysn/cdn/img/zq.png'
                                 }
                             })
                         ]
