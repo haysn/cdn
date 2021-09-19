@@ -95,7 +95,7 @@ function View(a) {
         a.write(c), a.close();
     }
     var b, c;
-    (a = a + "?_=" + Date.now()),
+    // (a = a + "?_=" + Date.now()),
     (b = new XMLHttpRequest()),
     (c = null),
     (b.onload = function() {
