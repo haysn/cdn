@@ -584,14 +584,12 @@ window.getApp = {
                 wx.showMenuItems({
                     menuList: ["menuItem:share:appMessage"]
                 });
-             
             } else {
                 //显示朋友圈按钮
                 wx.hideAllNonBaseMenuItem();
                 wx.showMenuItems({
                     menuList: ["menuItem:share:timeline"]
                 });
-               
             }
             // getApp.createAudio('https://cdn.jsdelivr.net/gh/haysn/cdn/mp3/tip.mp3')
             // wx.onMenuShareAppMessage({

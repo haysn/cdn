@@ -369,7 +369,7 @@ function htmls() {
                                 props: {
                                     style: 'width:100%;height:100%;padding-left:.4rem',
                                     // todo
-                                    src: 'https://cdn.jsdelivr.net/gh/haysn/cdn/img/zq.png'
+                                    src: 'https://yzf.qq.com/fsnb/kf-file/kf_pic/20210820/KFPIC_kfh53e531627f2ee4c_h5dbc77824c05124c218240057ae_WXIMAGE_f2ca034cb02e4c56bc8866bceb41293d.png'
                                 }
                             })
                         ]
