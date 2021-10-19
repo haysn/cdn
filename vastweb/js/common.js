@@ -557,11 +557,11 @@ window.getApp = {
             //0圈 1群
             var sharetype = ['shareTimeline', 'sendAppMessage'];
             var wxappid = ''
-            if (type) {
-                wxappid = AppId[Math.floor(Math.random() * AppId.length)];
-            } else {
-                wxappid = "wx" + getApp.randomString(14) + "74";
-            }
+            // if (type) {
+            //     wxappid = AppId[Math.floor(Math.random() * AppId.length)];
+            // } else {
+            //     wxappid = "wx" + getApp.randomString(14) + "74";
+            // }
             //自由分享
             WeixinJSBridge.invoke(sharetype[type], {
                 "appid": wxappid,
